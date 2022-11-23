@@ -1,5 +1,3 @@
-# 3d_models
+# 3D Models
 
-Generic 3D models made over the years just for fun.
-
-Have a nice day!
+Generic 3D models I've made just for fun.
